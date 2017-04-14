@@ -4,7 +4,7 @@ the Python programming language and the numpy, pands and scikit-learn packages. 
 did RNA-seq to measure miRNA levels in 29 tumor/normal pairs.  I build a support vector machines classifier that can accurately predict if an 
 unseen sample is a tumor or normal sample.
 
-Dependencies - You will need the latest version of numpy, pandas and scikit-learn (as of February 2017).
+Dependencies - You will need the latest version of numpy, pandas and scikit-learn.
 
 The data are from:
 
